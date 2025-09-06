@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const axiosInstance = axios.create({
-    baseURL:"https://backend-url-shortner-wssl.onrender.com",
+    baseURL:"https://backend-url-shortner-a2wx.onrender.com",
     timeout:10000, //10s
     withCredentials:true
 })
@@ -58,3 +58,4 @@ axiosInstance.interceptors.response.use(
 );
 
 export default axiosInstance
+
