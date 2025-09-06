@@ -49,22 +49,21 @@ cd frontend-url-shortner
 # Install deps
 npm install
 ```
-project-root
+##project-root
 ```
 ┣ 📂 backend   # Express + MongoDB + JWT Auth
 ┣ 📂 frontend  # React + Vite + Tailwind
 ┣ 📂 logs      # Debug & cron logs
 ┗ README.md
 ```
-🤝 Contributing
+##🤝 Contributing
 ```
 PRs are welcome 💌. Just fork → code → PR → flex 🚀
 ```
 📜 License
 
-MIT
+##MIT
  – free to vibe with 🌍
 
 💡 Made with ❤️ + ☕ by Dhruv Johri
-# Start dev server
-npm run dev
+
